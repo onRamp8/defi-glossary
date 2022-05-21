@@ -1,4 +1,4 @@
-# DeFi-glossary
+# DeFi-Glossary
 
 Glossary of DeFi terms. Terms on this page follow the form:
 * term name
