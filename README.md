@@ -6,14 +6,14 @@ Glossary of DeFi terms. Terms on this page follow the form:
 * links to more info and deeper dives
 
 
-## TLV
+### TLV
 Total Locked Value. Is the value locked up in a given
 
 [TLV explained](https://impermax.medium.com/defi-explained-what-is-tvl-9800eda80b0b)
 
 -----
 
-##AMM
+###AMM
 Automated Market Maker refers to the way a smart contract will act as a 
 market maker to execute trades between two wallets
 
@@ -21,7 +21,7 @@ market maker to execute trades between two wallets
 
 -----
 
-## Zero Knowledge Proofs
+### Zero Knowledge Proofs
 A zero-knowledge proof is where a prover (Alice) can prove that she knows 
 information x to a verifier (Bob) without communicating any other information 
 to Bob other than the fact that she knows x.
