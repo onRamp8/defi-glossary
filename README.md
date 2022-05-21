@@ -1,9 +1,11 @@
-# defi-glossary
+# DeFi-glossary
 
 Glossary of DeFi terms. Terms on this page follow the form:
 * term name
 * short definition
 * links to more info and deeper dives
+
+----
 
 
 ### TLV
