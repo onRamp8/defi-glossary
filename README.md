@@ -13,7 +13,7 @@ Total Locked Value. Is the value locked up in a given
 
 -----
 
-###AMM
+### AMM
 Automated Market Maker refers to the way a smart contract will act as a 
 market maker to execute trades between two wallets
 
